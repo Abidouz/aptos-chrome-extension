@@ -1,6 +1,6 @@
 # MultiMask Browser Extension
 
-**Experimental Software**
+**Experimental Software***
 
 The Software is provided "as is" without warranty of any kind, either express or implied. Use at your own risk.
 
